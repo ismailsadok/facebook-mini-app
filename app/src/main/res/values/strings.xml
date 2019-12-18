@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photos Exporting For Facebook</string>
+
+    <string name="facebook_app_id">443436116332096</string>
+    <string name="fb_login_protocol_scheme">fb443436116332096</string>
+
+</resources>
